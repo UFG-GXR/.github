@@ -2,4 +2,4 @@
 
 Research group focused on applications involving Extended Reality
 
-![vr gif](vr.gif)
+![vr gif]([vr.gif](https://github.com/UFG-GXR/.github/blob/main/profile/vr.gif))
